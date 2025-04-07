@@ -15,4 +15,4 @@ hideComments = false
 
 # Ejercicio 1
 ## Dear Data ejemplo
-
+![imagen ejemplo]("img/hello.jpg")
