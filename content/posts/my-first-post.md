@@ -17,3 +17,11 @@ hideComments = false
 This is **bold** text, and this is *emphasized* text.
 
 Visit the [Hugo](https://gohugo.io) website!
+
+<div class="search-container">
+    <input type="text" id="ciudad" placeholder="Ingresa la ciudad">
+    <button id="submit">Buscar</button>
+</div>
+
+<script src="https://unpkg.com/p5js@1.2.18/p5.js/p5.min.js"></script>
+<script src="sketch.js"></script>

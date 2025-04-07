@@ -2,20 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://largocreatura.github.io/hugo-web/public/posts/ejercicio-1/</loc>
+    <loc>http://localhost:1313/hugo-web/public/posts/ejercicio-1/</loc>
     <lastmod>2025-04-07T16:08:11+02:00</lastmod>
   </url><url>
-    <loc>https://largocreatura.github.io/hugo-web/public/</loc>
+    <loc>http://localhost:1313/hugo-web/public/</loc>
     <lastmod>2025-04-07T16:08:11+02:00</lastmod>
   </url><url>
-    <loc>https://largocreatura.github.io/hugo-web/public/posts/</loc>
+    <loc>http://localhost:1313/hugo-web/public/posts/</loc>
     <lastmod>2025-04-07T16:08:11+02:00</lastmod>
   </url><url>
-    <loc>https://largocreatura.github.io/hugo-web/public/posts/my-first-post/</loc>
+    <loc>http://localhost:1313/hugo-web/public/posts/my-first-post/</loc>
     <lastmod>2025-04-07T14:09:05+02:00</lastmod>
   </url><url>
-    <loc>https://largocreatura.github.io/hugo-web/public/categories/</loc>
+    <loc>http://localhost:1313/hugo-web/public/categories/</loc>
   </url><url>
-    <loc>https://largocreatura.github.io/hugo-web/public/tags/</loc>
+    <loc>http://localhost:1313/hugo-web/public/tags/</loc>
   </url>
 </urlset>
