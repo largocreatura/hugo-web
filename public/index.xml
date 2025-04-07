@@ -6,8 +6,15 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>es-es</language>
-    <lastBuildDate>Mon, 07 Apr 2025 14:09:05 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 07 Apr 2025 16:08:11 +0200</lastBuildDate>
     <atom:link href="https://largocreatura.github.io/hugo-web/public/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ejercicio 1</title>
+      <link>https://largocreatura.github.io/hugo-web/public/posts/ejercicio-1/</link>
+      <pubDate>Mon, 07 Apr 2025 16:08:11 +0200</pubDate>
+      <guid>https://largocreatura.github.io/hugo-web/public/posts/ejercicio-1/</guid>
+      <description>&lt;h1 id=&#34;ejercicio-1&#34;&gt;Ejercicio 1&lt;/h1&gt;&#xA;&lt;h2 id=&#34;dear-data-ejemplo&#34;&gt;Dear Data ejemplo&lt;/h2&gt;</description>
+    </item>
     <item>
       <title>My First Post</title>
       <link>https://largocreatura.github.io/hugo-web/public/posts/my-first-post/</link>
