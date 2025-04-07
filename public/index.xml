@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>https://largocreatura.github.io/hugo-web/</link>
+    <link>https://largocreatura.github.io/hugo-web/public/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>es-es</language>
     <lastBuildDate>Mon, 07 Apr 2025 14:09:05 +0200</lastBuildDate>
-    <atom:link href="https://largocreatura.github.io/hugo-web/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://largocreatura.github.io/hugo-web/public/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
-      <link>https://largocreatura.github.io/hugo-web/posts/my-first-post/</link>
+      <link>https://largocreatura.github.io/hugo-web/public/posts/my-first-post/</link>
       <pubDate>Mon, 07 Apr 2025 14:09:05 +0200</pubDate>
-      <guid>https://largocreatura.github.io/hugo-web/posts/my-first-post/</guid>
+      <guid>https://largocreatura.github.io/hugo-web/public/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
     </item>
   </channel>

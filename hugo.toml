@@ -1,4 +1,4 @@
-baseURL = 'https://largocreatura.github.io/hugo-web/'
+baseURL = 'https://largocreatura.github.io/hugo-web/public'
 languageCode = 'es-es'
 title = 'My New Hugo Site'
 theme = 'terminal'
